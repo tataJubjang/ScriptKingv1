@@ -1,0 +1,2 @@
+# ScriptKingv1
+FreeZero
